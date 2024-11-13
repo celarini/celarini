@@ -23,7 +23,7 @@ Não conhece? então escuta.. sim. [🎶 ILLIT 🎶](https://www.youtube.com/wat
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/celarini/celarini/raw/main/billie.gif" width="250px" alt="Billie Eilish GIF"/>
+        <img src="https://github.com/celarini/celarini/raw/main/billie.gif" width="250px" alt="Billie"/>
       </td>
       <td align="center">
         <img src="https://image.weversejapan.com/official/live/illit/contents/profile/5/54b66f3e07694b67b700d1e932884602.jpg" width="250px" alt="WONHEE"/><br>
