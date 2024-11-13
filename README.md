@@ -37,7 +37,7 @@ Não conhece? então escuta.. sim. <a href="https://www.youtube.com/watch?v=NChl
   <!-- Segunda Linha com 2 Membros Centralizados e GIF -->
   <tr>
     <td align="center">
-      <img src="  " width="150" alt="Billie Eilish GIF">
+      <img src="https://github.com/celarini/celarini/raw/main/billie.gif" width="150" alt="Billie Eilish GIF">
     </td>
     <td align="center">
       <a href="/profile#WONHEE">
