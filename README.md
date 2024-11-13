@@ -36,7 +36,7 @@ Não conhece? então escuta.. sim. [🎶 ILLIT 🎶](https://www.youtube.com/wat
     </tr>
   </table>
 
-  <img width="100%" src="https://www.nautiljon.com/images/people/02/93/illit_183839.webp?1727724249" alt="Imagem Principal">
+  <img width="100%" src="https://www.nautiljon.com/images/people/02/93/illit_183839.webp?1727724249" alt="ILLIT 🖤">
 
   <h2>Eu gosto eu uso:</h2>
   
