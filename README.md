@@ -34,9 +34,11 @@ Não conhece? então escuta.. sim. <a href="https://www.youtube.com/watch?v=NChl
     </td>
   </tr>
   
-  <!-- Segunda Linha com 2 Membros Centralizados -->
+  <!-- Segunda Linha com 2 Membros Centralizados e GIF -->
   <tr>
-    <td></td> <!-- Célula vazia para centralizar as duas abaixo -->
+    <td align="center">
+      <img src="https://tenor.com/pt-BR/view/billie-eilish-billie-eilish-billie-eilish-kiss-billie-eilish-blowing-a-kiss-gif-8706954334481241992" width="150" alt="Billie Eilish GIF">
+    </td>
     <td align="center">
       <a href="/profile#WONHEE">
         <img src="https://image.weversejapan.com/official/live/illit/contents/profile/5/54b66f3e07694b67b700d1e932884602.jpg" width="150" alt="WONHEE"><br>
