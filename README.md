@@ -22,11 +22,9 @@ _"Hacking is the art of exploitation."
 
 <br>
 
-**Um pouco sobre mim:**
+**1$:**
 
 * 💻  A liberdade é tudo o que você precisa para alcançar os seus sonhos, sonhe para que você veja o futuro se tornar o presente.
 
 
-<hr>
 
-✨ "A tecnologia é a ferramenta, a criatividade é a chave." ✨
