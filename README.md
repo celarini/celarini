@@ -24,7 +24,6 @@ _"Hacking is the art of exploitation."
 
 **1$:**
 
-* 💻  A liberdade é tudo o que você precisa para alcançar os seus sonhos, sonhe para que você veja o futuro se tornar o presente.
 
 
 
